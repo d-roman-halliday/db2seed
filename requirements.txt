@@ -1,0 +1,5 @@
+pandas          # pandas
+pyyaml          # pyyaml: Reads the YAML configuration file.
+sqlalchemy      # sqlalchemy: ORM for interacting with the PostgreSQL database.
+#psycopg2       # psycopg2: PostgreSQL database adapter for Python.
+psycopg2-binary # Binary version of psycopg2 (doesn't require other tools installed first)

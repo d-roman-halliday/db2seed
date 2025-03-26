@@ -1,0 +1,8 @@
+database:
+  type: postgresql  # Testing with configuration from: https://github.com/d-roman-halliday/simple_shop_data_generator/blob/main/database_setup/database_and_users_postgres.sql
+  user: simple_shop_reader
+  password: reader_password
+  host: localhost
+  port: 5432
+  name: simple_shop
+
